@@ -1,0 +1,40 @@
+body{
+    background-image:url(https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2025/02/11/17393122177739.jpg);
+ 
+}
+h1{
+    color: brown; 
+    font-size: 55px;
+}
+h2{
+    font-family: sans-serif;
+    font-size: 32px;
+}
+h3{
+    color: darkmagenta;
+    font-size: 45px;
+}
+p{
+    color: indianred;
+    font-size: 44px;
+}
+p{
+    color: aqua;
+    font-size: 32px;
+}
+
+h4{
+    color: gold;
+    font-size: 28px;
+}
+h5{
+    color: yellowgreen;
+    font-size: 35px;
+}
+h1, h3, h4, h5, p, h6 {
+    text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000;
+}
+h6{
+    color: darkorange;
+    font-size: 40px;
+}
